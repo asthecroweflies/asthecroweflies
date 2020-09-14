@@ -1,0 +1,601 @@
+Tuesday, September 8, 2020
+
+[Yesterday, 6:43 PM]
+Entancedpoet:
+	Are you writing the code for the matrix :steammocking:
+	but seriously is that the work you have been doing
+
+[Yesterday, 7:00 PM]
+mmmeh:
+	im trying to close the gap between the blue and orange series
+	https://steamuserimages-a.akamaihd.net/ugc/1624066703067929089/C98924488985E033656C3A39BE61088CBFFC06BC/
+
+	there's a region in the pacific ocean whose surface temperatures can tell us if there's an el niño event
+	https://steamuserimages-a.akamaihd.net/ugc/1624066703067931815/2A95139B2F0DCD62822DC198C60F364CD5BF4321/
+
+	we're looking at nino 3.4
+	we're using temperatures from 112 climate models though for some bizarre ass reason some models are warmer for me
+	than for my adviser and i literally do not know why
+	some noise is fine but i need the trend to agree
+
+[Yesterday, 7:02 PM]
+Entancedpoet:
+	Damn man. You weren’t kidding about the big brain
+
+[Yesterday, 7:02 PM]
+mmmeh:
+	spent  8 hours on this today and im p sure i made the code even worse lol
+
+[Yesterday, 7:02 PM]
+Entancedpoet:
+	this is interesting
+
+[Yesterday, 7:02 PM]
+mmmeh:
+	goinna go for a bike ride to clear my head a bit
+	i'm almost certain it's something really really simple
+	bc i've like quintuple checked the logic in every step
+
+[Yesterday, 7:02 PM]
+Entancedpoet:
+	It always is in code
+
+[Yesterday, 7:03 PM]
+mmmeh:
+	and it works well for the other models it's just some that it messes up
+
+[Yesterday, 7:03 PM]
+Entancedpoet:
+	most of the time
+
+[Yesterday, 7:03 PM]
+mmmeh:
+	hmm
+	that is an interesting point
+	supposing my code works like it should,
+	if the data im using
+	is at all different than what my adviser has that would explain it.. i'll look into this when i get back
+	u mighta just helped me solve the mystery lol
+
+[Yesterday, 7:04 PM]
+Entancedpoet:
+	Lol
+	I think you misunderstood me
+	But Yay me!?
+	damn I’m impressed though, your going to do great things in life
+
+[Yesterday, 8:55 PM]
+mmmeh:
+	:steamdance:
+	hi
+	down for a game or two?
+
+[Yesterday, 11:19 PM]
+Entancedpoet:
+	Oh shit yeah bro
+	Sorryyyy
+	:(\
+
+[Yesterday, 11:24 PM]
+mmmeh:
+	lol all good
+	was playin pretty yikes
+
+[Yesterday, 11:24 PM]
+Entancedpoet:
+	Yo Manjaro and KDE put windows to shame
+
+[Yesterday, 11:24 PM]
+mmmeh:
+	for some reason i win more often with the chewy knockoff controller
+	but the xbone just feels so much better
+
+[Yesterday, 11:24 PM]
+Entancedpoet:
+	Haha really
+
+[Yesterday, 11:25 PM]
+mmmeh:
+	ya i imagine it comes down to my ability to just hit the ball straight, usually when i whiff i roll to the side for some reason
+	i bet ur pc is running smooth as butter with manjaro
+
+[Yesterday, 11:25 PM]
+Entancedpoet:
+	me too
+	yeah
+	Everything is just right there you know?
+	Settings arent hidden behind bullshit
+
+[Yesterday, 11:26 PM]
+mmmeh:
+	no forced updates
+	can actually search for anything so easily
+
+[Yesterday, 11:26 PM]
+Entancedpoet:
+	https://steamuserimages-a.akamaihd.net/ugc/1620689054056799736/FFBB024ED89169C734CD350D41FF62EAB1A960FA/
+
+	Simple settings
+	Right there
+
+[Yesterday, 11:27 PM]
+mmmeh:
+	clean af
+
+[Yesterday, 11:27 PM]
+Entancedpoet:
+	And a massive interactive help manual with glossary and table of contents
+	https://steamuserimages-a.akamaihd.net/ugc/1620689054056807970/45EE0AAA6055508C577689CA2B27B5850BF80843/
+
+[Yesterday, 11:30 PM]
+mmmeh:
+	aw yus
+	everything looks so elegant
+
+[Yesterday, 11:30 PM]
+Entancedpoet:
+	Yeah except linux customisation can be a deep rabbit hole
+
+[Yesterday, 11:47 PM]
+Entancedpoet:
+	Lol i wrote a poem would you tell me what you think of it]
+
+[Yesterday, 11:48 PM]
+mmmeh:
+	ayy sure thang
+	love the art
+
+[Yesterday, 11:49 PM]
+Entancedpoet:
+	In the eventide Squinting upon the crimson skyConfounding me my eyesBeheld a kingdom riseHow can it beThat any waking eye may seeThe eventide conceiveA kingdoms riseFrom sea to skiesWhat woe it is to seeAnd indeed to knowA hand so bold To hold a candle to the sky Just to show it's glowThe shadow now shownA kingdom of stone
+	Rough draft
+
+[Yesterday, 11:51 PM]
+mmmeh:
+	oof dat rhythm
+	flowing like deep river
+	1 thing, i think the 3rd to last line should have "its" and not "it's"
+	i could really taste this piece, nicely done
+
+[Yesterday, 11:52 PM]
+Entancedpoet:
+	I just had to type it out lol rough dragy
+	draft
+
+[Yesterday, 11:53 PM]
+mmmeh:
+	yus such is the role of the draft to be revised and refined like a gem
+
+[Yesterday, 11:53 PM]
+Entancedpoet:
+	So you dug it?
+	It felt very original when i looked at it
+
+[Yesterday, 11:56 PM]
+mmmeh:
+	yes it was rich with imagery
+	and there's several layers to it so the immediate meaning is not revealed to the reader
+
+[Yesterday, 11:57 PM]
+Entancedpoet:
+	Then I suppose i did my job then :steamhappy:
+	1177 B.C.: The Year Civilization Collapsed - Wikipedia
+	https://en.wikipedia.org/wiki/1177_B.C.:_The_Year_Civilization_Collapsed
+
+	I was somewhat inspired by this amazing book
+	A really great read
+
+[Yesterday, 11:59 PM]
+mmmeh:
+	o damn
+	the fact that it's non-fiction makes it all the more moving
+
+Wednesday, September 9, 2020
+
+[12:01 AM]
+Entancedpoet:
+	Inspired among other things as well, but if you got time id def recommend this book. Its interesting how the  myth and history shadow one another. Such as the trojan war and exodus
+	Im glad you liked the poem though
+
+[12:32 AM]
+mmmeh:
+	surely u have made more though
+	:greenfrog:
+
+[12:52 AM]
+Entancedpoet:
+	Yes but I lost notebooks of them though
+	ALOT
+
+[12:57 AM]
+mmmeh:
+	aw dang
+	well that means you better make more :]
+
+[12:57 AM]
+Entancedpoet:
+	Yeah do you write
+
+[1:03 AM]
+mmmeh:
+	mmmm
+	just papers heh
+	i mean i have some ideas for poems but i haven't roped down the right words yet
+
+[2:05 AM]
+Entancedpoet:
+	It’s tough to get into the groove
+	The serpent looked into my eyes Spoke the greatest truth  And the greatest lie After its skin had shed It began to swallow its tail With a crooked smile, he spoke ”Thus is my beauty and my horror The majesty of my triumph And my tragedy The deceiving and my believing My nature’s clear.  Becoming clearer That I am the fear of the mirror.”
+	I for some reason remember that one
+	I wrote it when I was 17
+
+[2:08 AM]
+mmmeh:
+	fear of the mirror
+	got damb
+	you have the poet's ear
+
+[2:10 AM]
+Entancedpoet:
+	What do you think? I hardly remember writing it but
+	It’s kind of funny that Xbox live assigned me the name Entrancedpoet lol
+	You down for a game
+
+[2:11 AM]
+mmmeh:
+	i think it has shining qualities
+	especially for being written at 17
+	and nop im prettty much useless in RL atm at this hour
+	cant sleep so ive been workin on a battle feature for my discord bot
+
+[2:12 AM]
+Entancedpoet:
+	haha me too
+	hows ur kitty doing
+
+[2:12 AM]
+mmmeh:
+	lol she knotty
+	i find when she eats a lot
+	she wants even more all the time
+	and really wont let up until she gets some
+	idk if i told you but this morning i went out for bagels on my bike after feeding her
+	but i forgot i left the bag out
+	and when i came back she had torn a hole in it and was goin ham on a dry food buffet
+
+[2:14 AM]
+Entancedpoet:
+	Calculated.
+
+[2:14 AM]
+mmmeh:
+	lmao :steamfacepalm:
+
+[2:14 AM]
+Entancedpoet:
+	Red laser pointers help
+	distracts them for a while
+	and its good for kicks
+
+[2:14 AM]
+mmmeh:
+	yus
+	she also LOVES string
+	like it's like instant cat nip
+	she has to chase and bite it
+	i can be pretty quick with it tho and can yoink it out of her reach like 8/10 times
+	i can tell she gets annoyed and really goes hard to get it
+	also does ur cat just randomly get the zoomies
+	like around 9am every day she just starts sprinting
+	and jumping up corners it's really funny
+	lasts for like 5min and she's chill again
+
+[2:17 AM]
+Entancedpoet:
+	Yeah it happens
+	Except my cat does it at like 4 am
+	My cat is the biggest troll
+
+[2:18 AM]
+mmmeh:
+	lol cheeky bugger
+
+[2:18 AM]
+Entancedpoet:
+	He loves to meow at me endlessly
+
+[2:21 AM]
+mmmeh:
+	hmmmmm ok so im not alone
+	i tried conditioning her that if she meows at me
+	im gonna pick her up and cuddle
+	but for an uncomfortably long time
+	so she wriggles out of my grip
+	to get her to not meow so much, but she just runs after meowing when she sees me get up lol
+
+[2:26 AM]
+Entancedpoet:
+	https://steamusercontent-a.akamaihd.net/ugc/1620689054057343797/418FA87F2DD017228DB478A75F14A15A6C325DA8/
+
+	Thats what i try
+	Just meow back
+	And I think they get confused after a while
+	My cats like that to
+	But cats are fickle little things
+
+[2:29 AM]
+mmmeh:
+	lol wat a floof ball
+	how old is he?
+	i feel like im probably a bit impatient, my chungy is only 2 so she's gonna be a bit rebellious
+
+[2:30 AM]
+Entancedpoet:
+	He’s like 8
+	i think
+
+[2:30 AM]
+mmmeh:
+	o he's like 40 in human years then
+
+[2:30 AM]
+Entancedpoet:
+	She will figure out eventually that you can’t always get what ya want
+	but if you try some times
+	You’ll find you get what you need
+	yeah I just busted out some Rolling Stones :steammocking:
+
+[2:32 AM]
+mmmeh:
+	u might just find
+	you get what you need O YEAAA
+
+[2:32 AM]
+Entancedpoet:
+	Hey you get off of my cloud!
+
+[2:32 AM]
+mmmeh:
+	:steammocking:
+
+[2:32 AM]
+Entancedpoet:
+	lol
+	https://steamuserimages-a.akamaihd.net/ugc/1620689054057364979/FFBD583320E8EBFBA9EF9FA66B180FA1309B3699/
+
+	Just found some of my Mexico pics
+	https://steamuserimages-a.akamaihd.net/ugc/1620689054057367249/E39DE340078A207846B55A84BF46E25E0446636E/
+
+	Lol strangest encounter of my life ^^^^^
+
+[2:35 AM]
+mmmeh:
+	lol ayyy
+	i was in cancun a few years and we visited some mayan ruins
+	those lil lizard dudes were everywhere
+	and really chill
+
+[2:35 AM]
+Entancedpoet:
+	Nice which one did you go to?
+	I made the wise decision to go to one of the most remote ruins on one of the hottest days
+	The heat nearly killed ne
+
+[2:36 AM]
+mmmeh:
+	mm i think we went to Tulum
+	and o ya u def need to be careful out there
+	especially for a canadian like yourself, you'll melt!
+
+[2:37 AM]
+Entancedpoet:
+	Lolll :steammocking:
+	We’re sensitive to heat and just about everything else
+	Toronto does get very f#%&ing hot and humid though
+	We can easily get around 30 Celsius in summer and -30 in winter :steamfacepalm:
+
+[2:41 AM]
+mmmeh:
+	lol being from texas im no stranger to 30c, but -30 is just bonkers and i can't imagine what that could feel like
+	probably burns more than 30c
+
+[2:41 AM]
+Entancedpoet:
+	That without the windchill
+	And were by the great lakes so lots of wind chill
+	Feels like the colds slapping you in the face
+	Do you have a fave philosopher?\
+
+[2:46 AM]
+mmmeh:
+	mmmmmmmmmm probably Diogenes or Zeno of  Citium
+
+[2:47 AM]
+Entancedpoet:
+	Lol Diogenes
+	What a character
+	He’s classic
+	Never heard of Zeno
+
+[2:50 AM]
+mmmeh:
+	he's the sort of the father of stoicism
+
+[2:51 AM]
+Entancedpoet:
+	Nice
+	I was always big fan of Greek philosophers
+	But I lean more towards the epic tradition
+	Homer, Sophocles, Hesiod
+	But platos my favourite philosopher of that time
+
+[2:52 AM]
+mmmeh:
+	plato really was the realest
+
+[2:53 AM]
+Entancedpoet:
+	He had an interesting way of writing down his philosophy
+	I think Plato for the most part was the genius behind Socrates as we know him
+	His works border on the poetic
+
+[3:05 AM]
+Entancedpoet:
+	I think I’m going to get baked
+
+[3:05 AM]
+mmmeh:
+	lol rn?
+	cheers
+	when i smoke at night i find it impossible to fall asleep
+	mind just races for hours
+
+[3:11 AM]
+Entancedpoet:
+	Yea me too I haven’t smoke in like 5 months
+	Damn
+	I start my python course on the 15th 🥳🥳🥳 I’m so excited
+	Yo how would you suggest starting out when I learn to code
+
+[3:14 AM]
+mmmeh:
+	woop woop!
+
+[3:14 AM]
+Entancedpoet:
+	I’d like to work on some open source projects
+
+[3:14 AM]
+mmmeh:
+	and hmm
+	that's a solid goal
+	but it can be pretty overwhelming
+	id recommend using python to bring to life some data you find interesting
+	or maybe use it to scrape a webpage
+	for some information automatically or to download images
+
+[3:15 AM]
+Entancedpoet:
+	Ok sounds good
+
+[3:15 AM]
+mmmeh:
+	really the possibilities are endless
+
+[3:15 AM]
+Entancedpoet:
+	It does feel overwhelming
+
+[3:15 AM]
+mmmeh:
+	the course will give you the tools
+
+[3:15 AM]
+Entancedpoet:
+	Knowing where to start
+
+[3:15 AM]
+mmmeh:
+	but you need to whip out some creativity to build something with them
+	but yes
+	i def remember when i first started out
+	with java
+	ppl were pretty unforgiving on the internet and  expected u to just know everything from the start
+
+[3:16 AM]
+Entancedpoet:
+	Damn
+	That’s not encouraging
+	Id like to do some stuff eventually, to give back
+	All those open source programs I used in my days
+	I guess I took them for granted
+
+[3:18 AM]
+mmmeh:
+	meh as long as you used them im sure the creators are happy 8)
+
+[3:18 AM]
+Entancedpoet:
+	Yeah that’s true
+	Did you work on big projects before? What kinds of stuff did you do?
+	Where did you start
+
+[3:24 AM]
+mmmeh:
+	o the first big project i worked on was a lil pokemon-style game
+	had a partner and we called it Or
+	was really cool working with sprite animations and map/boss making
+	after that i did just random  applications like a vowel counter or this one application that i would make draggable black bars
+	bc this one movie pirating software i had (RIP popcorntime) refused to maximize and i didn't want to see my task bar or the application
+
+[3:26 AM]
+Entancedpoet:
+	Siiick!
+	You had a movie pirating software? Nice what happened
+
+[3:27 AM]
+mmmeh:
+	o eventually they got taken down
+	it was the best tho
+	full hd movies  and actually in english
+	while they were still in theaters too sometimes
+
+[3:28 AM]
+Entancedpoet:
+	Nice the successful ones do usually get taken down
+	Nice though!
+
+[1:53 PM]
+mmmeh:
+	oof
+	finally i figured out what the issue was
+	was using the wrong longitudes heh
+	blue is what i was getting before and grey is what i have now, where orange is the target temperature
+	https://steamuserimages-a.akamaihd.net/ugc/1624066753787417729/242161ACAD56CDB0B309E74332C89F0E1CBC7535/
+
+	pretty damn good !!
+
+[2:07 PM]
+Entancedpoet:
+	Damn son. Well done sir
+	Sorry I got baked and passed out lol
+	Want to play some rocket league
+	My level on Xbox I’m only silver 3 and gold 1
+
+[2:25 PM]
+mmmeh:
+	lmao
+	i actually picked up a hearty amount of the Good Stuff™ earlier today after being pretty dankrupt for a while and celebrated by achieving Ultra Zonkitude
+	it's weird how when im high my urge to drink tanks
+
+[2:29 PM]
+Entancedpoet:
+	Lol
+	Your stoned
+
+[3:22 PM]
+mmmeh:
+	dude
+	im a baked potato
+	like i actually got lsd visuals
+	dots along my line of vision
+
+[3:53 PM]
+Entancedpoet:
+	Siiiickkk
+	I got fried last night
+	Watched potato league and laughed myself to sleep
+
+[3:54 PM]
+mmmeh:
+	lol aw
+	which was ur fav clip
+
+[3:56 PM]
+Entancedpoet:
+	There was this one that was so funny where this was a bunch of whiffs and eventually there was an own goal. But they had that jstn rlcs goal commentary in the background
+	https://m.youtube.com/watch?v=GJWdCL-obXU
+	Lol that commentary
+	I laughed so hard
+	I don’t know why my messages are sending twice
+	I’m on RL add my rocketid if you want
